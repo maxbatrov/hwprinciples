@@ -12,4 +12,4 @@ public class Main {
         post.surname = "Иванов";
         post.subscription = true;
     }
-    }
+}
